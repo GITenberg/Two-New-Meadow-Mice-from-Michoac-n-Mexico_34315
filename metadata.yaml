@@ -1,0 +1,31 @@
+_repo: Two-New-Meadow-Mice-from-Michoac-n-Mexico_34315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34315'
+  lccn: '49045047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Microtus'
+title: Two New Meadow Mice from Michoacán Mexico
+url: http://www.gutenberg.org/ebooks/34315
