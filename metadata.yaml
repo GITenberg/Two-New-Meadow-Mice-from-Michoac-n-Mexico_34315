@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26108'
     url: http://www.gutenberg.org/2009/agents/26108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34315#Two-New-Meadow-Mice-from-Michoac-n-Mexico
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
